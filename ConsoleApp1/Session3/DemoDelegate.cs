@@ -8,3 +8,5 @@ public class DemoDelegate
         Console.WriteLine("Show info: "+s);
     }
 }
+
+//Delegate la mot kieu HAM, 

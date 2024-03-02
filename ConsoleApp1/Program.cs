@@ -23,7 +23,7 @@ intArray.Add(9);
 Console.WriteLine(intArray[2]);//sd ki thuat indexer
 
 person.Telephones[0] = "2345678";
-person[0] = "11234567";
+person[0] = "11234567"; //idexer
 
 Asian asian = new Asian();
 asian.Id = 12; */
