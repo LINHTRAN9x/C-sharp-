@@ -40,10 +40,7 @@
             double radius = double.Parse(Console.ReadLine());
             double height = double.Parse(Console.ReadLine());
 
-            // Create a new Cylinder object with the user-provided values
             Cylinder cylinder = new Cylinder(radius, height);
-        
-            // Process and display the results
             cylinder.Process();
         }
     }
